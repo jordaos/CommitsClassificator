@@ -14,7 +14,7 @@ def is_in(dir, file, cat):
 
 
 def verify_is(dir, cat, dir2):
-    log = open('contents/log/LOG_similaridade.md', 'w')
+    log = open('contents/log/LOG_similaridade.md', 'a')
     texto = ""
     link = "https://github.com/jordaos/CommitsClassificator/blob/master/contents/releases/NB/release_1.1.0_nltk"
     dir_cat = dir + cat + "/"
