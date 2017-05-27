@@ -1,0 +1,6 @@
+Port #19423 to v3
+
+Docs: Add link to Chrome bug regarding `body { overflow: hidden; }`
+
+https://bugs.chromium.org/p/chromium/issues/detail?id=175502
+[skip sauce]

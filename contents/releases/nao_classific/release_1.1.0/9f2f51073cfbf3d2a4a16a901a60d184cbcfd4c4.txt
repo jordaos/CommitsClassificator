@@ -1,0 +1,3 @@
+enforceFocus event.target - event is undefined
+
+event.target should be e.target within enforceFocus method.

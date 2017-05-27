@@ -1,0 +1,3 @@
+ISSUE_TEMPLATE.md: Fix "questons" typo
+
+[ci skip]

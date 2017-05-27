@@ -1,0 +1,8 @@
+Port #20020 to v3
+
+Add Wall of Browser Bugs entry for #19927 (#20020)
+
+Refs https://webkit.org/b/158276
+Closes #19927
+
+[skip sauce]

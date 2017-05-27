@@ -1,0 +1,1 @@
+Releases avaliadas com SGDC

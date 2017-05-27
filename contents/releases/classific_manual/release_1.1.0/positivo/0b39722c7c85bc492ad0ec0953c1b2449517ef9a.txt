@@ -1,0 +1,7 @@
+Port #19470 to v3
+
+CONTRIBUTING.md: Prohibit "+1" comments in favor of reactions
+
+Refs https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments
+Refs https://github.com/dear-github/dear-github/issues/141#issuecomment-195106918
+[ci skip]

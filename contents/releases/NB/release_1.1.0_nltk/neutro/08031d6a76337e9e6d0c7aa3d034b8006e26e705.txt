@@ -1,0 +1,3 @@
+Merge pull request #18747 from twbs/fix-18711
+
+Docs: disable printing of hrefs

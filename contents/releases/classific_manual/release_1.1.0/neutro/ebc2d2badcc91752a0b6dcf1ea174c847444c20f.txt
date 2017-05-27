@@ -1,0 +1,1 @@
+Update jQuery to v1.12.2.

@@ -1,0 +1,3 @@
+Move browser feature requests to new "Most wanted features" section
+
+Ports 58aca2823404d6dc18fd44ae15f7ff2f34f64705 to v3

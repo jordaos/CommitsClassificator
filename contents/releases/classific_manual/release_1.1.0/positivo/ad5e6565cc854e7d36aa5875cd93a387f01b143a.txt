@@ -1,0 +1,7 @@
+Port a24112e85027b406fc1a82fa5bab5bbed165dd48 to v3
+
+Remove http://bugzil.la/1060131 from Wall of Browser Bugs
+
+http://bugzil.la/1060131 has been fixed by http://bugzil.la/823483 which should land in Firefox 46.
+Refs #14320
+[ci skip]

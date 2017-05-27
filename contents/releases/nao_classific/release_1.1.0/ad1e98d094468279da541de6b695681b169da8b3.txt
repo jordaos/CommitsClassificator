@@ -1,0 +1,5 @@
+button.js: Fix keyboard navigation
+
+This PR fixes the keyboard navigation again while still keeping #16223 fixed.
+
+Closes #19192

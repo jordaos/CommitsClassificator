@@ -1,0 +1,3 @@
+Merge pull request #19435 from patrickhlauke/master
+
+Add native title tooltip IE11/Edge bug to wall of browser bugs

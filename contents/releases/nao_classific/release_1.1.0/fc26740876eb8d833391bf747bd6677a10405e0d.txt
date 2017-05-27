@@ -1,0 +1,3 @@
+Merge two jQuery `is()` calls in the button component by using the OR operator in the selector instead of two function calls with the OR operator between them.
+
+Closes #16918.

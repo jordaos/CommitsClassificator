@@ -1,0 +1,3 @@
+Merge pull request #18337 from twbs/v3-no-feats-for-you
+
+Explain in docs that v3 is closed off to new features

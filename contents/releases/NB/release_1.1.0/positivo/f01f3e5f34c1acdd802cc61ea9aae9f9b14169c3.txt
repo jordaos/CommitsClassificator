@@ -1,0 +1,3 @@
+Clear tooltip's $element to prevent leaking memory. Fixes #17973
+
+Closes #19659

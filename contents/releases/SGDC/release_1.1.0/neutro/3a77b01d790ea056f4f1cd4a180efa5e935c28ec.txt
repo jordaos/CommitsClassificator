@@ -1,0 +1,3 @@
+Merge pull request #18700 from patrickhlauke/disabled-pointer-events-v3
+
+Add pointer-events:none to disabled pager/pagination

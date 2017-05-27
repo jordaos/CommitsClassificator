@@ -1,0 +1,3 @@
+Merge pull request #19295 from twbs/v3-ios-9.2
+
+Use iOS 9.2 in Sauce tests

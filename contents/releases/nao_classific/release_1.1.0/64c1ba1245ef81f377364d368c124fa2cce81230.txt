@@ -1,0 +1,8 @@
+Port #20036 to v3
+
+Add Wall of Browser Bugs entry for #19670 for Firefox (#20036)
+
+See https://bugzil.la/1278000
+Refs #19670
+
+[skip sauce]

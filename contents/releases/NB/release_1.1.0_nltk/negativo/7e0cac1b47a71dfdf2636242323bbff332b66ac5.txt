@@ -1,0 +1,7 @@
+Port 332c39b690a081d91a70002811b1361dbca025a2 to v3
+
+Add Wall of Browser Bugs entry for #18228
+
+See https://connect.microsoft.com/IE/feedback/details/2263132/edge-ie11-subpixel-problem-with-transparent-borders
+Refs #18228
+[skip sauce]

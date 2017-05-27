@@ -1,0 +1,6 @@
+Port #19712 to v3
+
+https://crbug.com/273306 has been fixed
+
+Refs #12078
+[skip sauce]

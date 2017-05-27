@@ -1,0 +1,8 @@
+Port 10ce36601d140af4fa9b6be5cc0cd5feaa8bbea3 to v3
+
+https://bugzil.la/1278000 was marked as dupe of https://bugzil.la/577785
+
+Update Wall of Browser Bugs accordingly.
+Refs #19670
+
+[ci skip]

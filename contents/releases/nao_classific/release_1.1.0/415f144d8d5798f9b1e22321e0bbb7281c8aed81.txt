@@ -1,0 +1,3 @@
+Merge pull request #20259 from twbs/backport-unit-fixes
+
+Backport JS unit test fixes from v4

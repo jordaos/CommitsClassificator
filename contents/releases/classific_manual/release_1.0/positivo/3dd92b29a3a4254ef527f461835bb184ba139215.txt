@@ -1,0 +1,6 @@
+README: Update copyright to 2016
+
+Happy New Year!
+It's 2016!
+
+Closes #18744

@@ -1,0 +1,6 @@
+Port e381b8323334d22a19d62f7408c14479cb08675e to v3
+
+Add Wall of Browser Bugs entry for #16915
+
+https://connect.microsoft.com/IE/feedback/details/2274240/edge-edge-renders-an-svg-img-with-max-width-100-too-small
+[skip sauce]

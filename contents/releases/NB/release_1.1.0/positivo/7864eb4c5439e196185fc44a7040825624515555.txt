@@ -1,0 +1,3 @@
+Remove unsupported vendor prefixes for @viewport (#19955)
+
+Fixes #19871

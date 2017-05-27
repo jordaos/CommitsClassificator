@@ -1,0 +1,9 @@
+Remove forced default focus outline
+
+As this causes non-standard dotted outline on checkboxes/radio buttons
+in OS X Firefox
+
+Fixes #19933
+Closes #19935
+
+[skip sauce]

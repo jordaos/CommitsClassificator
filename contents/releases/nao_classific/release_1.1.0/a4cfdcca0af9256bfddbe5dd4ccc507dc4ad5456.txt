@@ -1,0 +1,3 @@
+Merge pull request #20356 from twbs/revert-18700
+
+Revert #18700 but discourage using <a>s for disabled pagination items

@@ -1,0 +1,3 @@
+Travis: Remove env vars for S3 cache credentials
+
+Reverts part of 42697a4ecb2c034c9e88e245932b3914dfd1206c

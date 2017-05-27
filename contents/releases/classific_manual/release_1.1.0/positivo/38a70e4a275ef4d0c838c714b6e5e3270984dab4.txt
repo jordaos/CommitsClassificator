@@ -1,0 +1,3 @@
+Merge pull request #19091 from jshen212/patch-1
+
+docs/assets/js/src/application.js: Fix capitalization in comment

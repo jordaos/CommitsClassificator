@@ -1,0 +1,3 @@
+LICENSE: Update copyright to 2016
+
+Closes #18739

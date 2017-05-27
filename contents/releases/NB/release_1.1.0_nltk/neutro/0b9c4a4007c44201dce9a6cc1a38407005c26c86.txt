@@ -1,0 +1,3 @@
+Regenerate Customizer JavaScript
+
+[ci skip]

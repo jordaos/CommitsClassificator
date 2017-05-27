@@ -1,0 +1,6 @@
+Port #18448 to v3
+
+Add Wall of Browser Bugs entry for #15990
+
+https://bugzilla.mozilla.org/show_bug.cgi?id=1139853
+[skip sauce]

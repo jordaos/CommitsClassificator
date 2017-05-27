@@ -1,0 +1,8 @@
+Add Most Wanted Features entries for <dialog>
+
+Ports 0b21f2ecb1e5a3a8978cc23fa984242e9f81c62c to v3
+
+Refs https://bugzil.la/840640
+Refs https://webkit.org/b/84635
+
+[skip sauce]

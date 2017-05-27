@@ -1,0 +1,6 @@
+Port #19984 to v3
+
+Add :dir() pseudo-class feature requests to Wall of Browser Bugs (#19984)
+
+Refs https://developer.mozilla.org/en-US/docs/Web/CSS/:dir
+[skip sauce]

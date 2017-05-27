@@ -1,0 +1,7 @@
+Port ada8f213433b357af0528d06ec03148ae9d106f3 to v3
+
+Update Wall of Browser Bugs entry for #15990
+
+http://bugzil.la/1139853 was resolved as a duplicate of http://bugzil.la/924068
+Refs #15990
+[ci skip]

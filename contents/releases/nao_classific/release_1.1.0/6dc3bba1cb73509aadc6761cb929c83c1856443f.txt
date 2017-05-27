@@ -1,0 +1,6 @@
+Discourage usage of <a>s for disabled pagination items
+
+Refs https://github.com/twbs/bootstrap/commit/a217db1923a552b53c7a0c005e69c598fbd1a98a#commitcomment-18275320
+/fyi @patrickhlauke
+
+[skip sauce]

@@ -1,0 +1,3 @@
+Docs CSS: Removed border from GitHub buttons (#19606)
+
+[skip sauce]

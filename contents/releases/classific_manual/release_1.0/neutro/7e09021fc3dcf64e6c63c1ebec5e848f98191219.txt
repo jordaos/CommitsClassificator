@@ -1,0 +1,6 @@
+Port edfd72678d9a4e1c815d41d7a6c6605ec9e16bf9 to v3
+
+docs/_plugins/bugify.rb: Remove IE; all relevant issues moved to Edge
+
+Refs #19713
+[skip sauce]

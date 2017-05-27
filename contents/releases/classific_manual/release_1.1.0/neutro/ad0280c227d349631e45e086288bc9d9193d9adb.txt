@@ -1,0 +1,9 @@
+Port 6ec176eee2f64a4834c0eac5624552770c5d8af7 to v3
+
+Update remaining Edge issue URLs in Wall of Browser Bugs
+
+* https://connect.microsoft.com/IE/feedback/details/2445370 => https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/6793560/
+* https://connect.microsoft.com/IE/feedback/details/2256049 => https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/7165383/
+
+Refs #19713
+[skip sauce]

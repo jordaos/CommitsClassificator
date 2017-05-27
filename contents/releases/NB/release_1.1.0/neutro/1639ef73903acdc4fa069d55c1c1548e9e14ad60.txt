@@ -1,0 +1,3 @@
+Docs: disable printing of hrefs; fixes #18711
+
+[ci skip]

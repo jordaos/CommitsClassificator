@@ -1,0 +1,3 @@
+Fix JSHint errors.
+
+[skip sauce]

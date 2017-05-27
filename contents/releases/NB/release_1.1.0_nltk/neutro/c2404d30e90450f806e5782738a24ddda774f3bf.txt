@@ -1,0 +1,5 @@
+Avoid using $.offset() on SVGs since it gives incorrect results in jQuery 3; fixes #20280 (#20313)
+
+Refs https://github.com/jquery/jquery/issues/3137
+
+[skip validator]

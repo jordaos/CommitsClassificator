@@ -1,0 +1,5 @@
+Update jQuery version check and jQuery dependency version range (#20338)
+
+Closes #16834
+
+[skip validator]

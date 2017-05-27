@@ -1,0 +1,7 @@
+Port #19220 to v3
+
+js/tests/index.html: Replace jQuery event alias methods with functions that throw explanatory errors, instead of with undefined
+
+Refs https://github.com/twbs/bootstrap/pull/19219#issuecomment-184653699
+
+[skip validator]

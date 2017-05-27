@@ -1,0 +1,7 @@
+Port #18514 to v3
+
+Add Wall of Browser Bugs entry for #18504
+
+https://connect.microsoft.com/IE/feedback/details/2110930/edge-ie11-gradient-background-image-on-tr-is-only-applied-to-first-td
+
+[skip sauce]

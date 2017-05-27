@@ -1,0 +1,3 @@
+Merge pull request #19273 from patrickhlauke/v3-browser-compat-backport1
+
+Port v4 browser support table format to v3

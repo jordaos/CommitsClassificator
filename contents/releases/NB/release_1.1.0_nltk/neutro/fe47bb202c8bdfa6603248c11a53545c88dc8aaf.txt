@@ -1,0 +1,3 @@
+Update other Bootstrap 4 blog post link; erratum from #18913
+
+[skip sauce]

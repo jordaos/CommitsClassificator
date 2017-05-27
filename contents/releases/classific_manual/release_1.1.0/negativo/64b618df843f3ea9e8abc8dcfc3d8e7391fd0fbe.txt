@@ -1,0 +1,6 @@
+Port #18930 to v3
+
+Add Wall of Browser Bugs entry for #18543
+
+https://connect.microsoft.com/IE/feedback/details/2256049/edge-ie11-viewport-rule-has-side-effect-of-making-scrollbars-auto-hide
+[ci skip]

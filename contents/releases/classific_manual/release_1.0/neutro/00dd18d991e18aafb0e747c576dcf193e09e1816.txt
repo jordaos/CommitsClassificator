@@ -1,0 +1,3 @@
+Merge pull request #19263 from twbs/bump-shiv
+
+Bump html5shiv to v3.7.3

@@ -1,0 +1,6 @@
+Port #19219 to v3
+
+CONTRIBUTING: Document restriction regarding jQuery event alias methods
+
+Refs #19192
+[ci skip]

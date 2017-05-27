@@ -1,0 +1,7 @@
+Port #19393 to v3
+
+Add Wall of Browser Bugs entry for #19390
+
+https://bugzilla.mozilla.org/show_bug.cgi?id=1253468
+Closes #19390
+[ci skip]

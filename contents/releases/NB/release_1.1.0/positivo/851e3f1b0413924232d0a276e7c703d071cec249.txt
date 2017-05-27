@@ -1,0 +1,4 @@
+Bump html5shiv to v3.7.3
+
+Fixes #19262
+Thanks to @coliff for pointing out that we were using an outdated version.

@@ -1,0 +1,9 @@
+button.js: Set disabled property in addition to disabled attribute to preserve behavior under jQuery 3 (#20278)
+
+This code ought to have used .prop instead of .attr in the first place,
+but we can't get rid of the attr manipulation now due to backward compatibility constraints.
+
+Refs https://github.com/jquery/jquery-migrate/blob/3.0.0/warnings.md#jqmigrate-jqueryfnremoveattr-no-longer-sets-boolean-properties
+Refs #16834
+
+[skip validator]

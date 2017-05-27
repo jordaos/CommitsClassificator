@@ -1,0 +1,3 @@
+Merge pull request #20258 from twbs/fix-19063-v3
+
+Tell clean-css to inline source files into sourcemap

@@ -1,0 +1,5 @@
+Reflect MS Edge's migration of their issue tracker
+
+Refs https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/
+Ports 16d710217667879c6a79b3df25fd565fcc89cb34 to v3
+[skip sauce]

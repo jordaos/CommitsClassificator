@@ -1,0 +1,6 @@
+Port #20190 to v3
+
+Scrollspy test: Allow for async .then() in jQuery 3; fixes #20182
+
+Instead of doing a new assert.async(), just do a single one for the entire test
+and let the .then() be async as well.

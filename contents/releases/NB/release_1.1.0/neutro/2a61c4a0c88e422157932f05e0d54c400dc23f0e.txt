@@ -1,0 +1,4 @@
+Copy fonts/ into dist/ recursively (#19817)
+
+[skip sauce]
+[skip validator]

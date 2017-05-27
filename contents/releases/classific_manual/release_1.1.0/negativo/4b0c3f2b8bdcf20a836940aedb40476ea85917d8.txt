@@ -1,0 +1,7 @@
+Revert "Add pointer-events:none to disabled pager/pagination"
+
+This reverts commit a217db1923a552b53c7a0c005e69c598fbd1a98a.
+This reverts PR #18700
+See the discussion in the comments on that commit.
+
+[skip sauce]

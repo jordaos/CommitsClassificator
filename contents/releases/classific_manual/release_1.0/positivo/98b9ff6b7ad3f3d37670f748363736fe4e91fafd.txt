@@ -1,0 +1,4 @@
+variables.less: Fix typo in comment for @caret-width-base
+
+Closes https://github.com/twbs/bootstrap-sass/pull/1005
+[ci skip]

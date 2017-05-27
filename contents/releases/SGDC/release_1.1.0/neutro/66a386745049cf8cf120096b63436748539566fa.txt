@@ -1,0 +1,3 @@
+Merge pull request #19605 from twbs/fix-18559-v3
+
+Use vanilla npm shrinkwrap instead of uber/npm-shrinkwrap

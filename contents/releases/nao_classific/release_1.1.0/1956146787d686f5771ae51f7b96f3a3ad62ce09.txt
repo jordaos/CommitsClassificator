@@ -1,0 +1,1 @@
+alert: Avoid calling jQuery('#'), it's a syntax error in jQuery 3.0 (#20019)

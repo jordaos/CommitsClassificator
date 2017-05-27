@@ -1,0 +1,3 @@
+Merge pull request #18913 from calvinf/patch-1
+
+Docs: Update v4 banner's blog post link

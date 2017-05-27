@@ -1,0 +1,3 @@
+Merge pull request #19233 from patrickhlauke/test-visual-buttons-patch2
+
+Visual/manual test for checkbox/radio button kbd behavior

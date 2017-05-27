@@ -1,0 +1,3 @@
+Use iOS 9.2 in Sauce tests
+
+[skip validator]

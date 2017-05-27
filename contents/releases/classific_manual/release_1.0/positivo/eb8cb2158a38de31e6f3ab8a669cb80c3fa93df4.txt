@@ -1,0 +1,10 @@
+Port 701b4679941f54120bde22a4f6d240d2bac835cd to v3
+
+Remove Wall of Browser Bugs entry for #16915
+
+https://connect.microsoft.com/IE/feedback/details/2274240/edge-edge-renders-an-svg-img-with-max-width-100-too-small
+is fixed as of Edge 25.10586.0.0 (or possibly earlier).
+Confirmed in https://github.com/twbs/bootstrap/issues/16915#issuecomment-175210482
+Reverts #19010
+
+[skip sauce]

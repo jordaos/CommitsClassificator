@@ -1,0 +1,6 @@
+Losslessly compress docs images.
+
+Used zopfli 1.0.1, with `zopflipng -m --lossy_transparent -y --iterations=1000`
+
+Before: 23,7 KB (24.352 bytes)
+After:  23,5 KB (24.079 bytes)

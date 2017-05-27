@@ -1,0 +1,4 @@
+Travis: Remove env vars for giving Savage access to S3 cache
+
+Since we're not using the S3 cache anymore
+Reverts a1c170ed373d9076ecf76d264220a6a636239f17

@@ -1,0 +1,7 @@
+Port #19948 to v3
+
+https://crbug.com/427994 has been fixed
+
+Remove its entry from the Wall of Browser Bugs.
+
+[skip sauce]

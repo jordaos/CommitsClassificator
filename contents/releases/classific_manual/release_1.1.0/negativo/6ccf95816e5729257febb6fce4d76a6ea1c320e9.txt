@@ -1,0 +1,8 @@
+Port #20026 to v3
+
+Add Wall of Browser Bugs entry for #19839 (#20026)
+
+See https://bugzilla.mozilla.org/show_bug.cgi?id=1277782
+Refs #19839
+
+[skip sauce]

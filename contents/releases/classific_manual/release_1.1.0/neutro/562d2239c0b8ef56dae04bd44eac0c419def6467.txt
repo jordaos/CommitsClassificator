@@ -1,0 +1,6 @@
+Docs: Remove <meta name="keywords"> from <head>
+
+Remove meta keywords - AFAIK no search engines use them for search ranking at all. There's no need for them to be included.
+
+Closes #18872
+[skip sauce]

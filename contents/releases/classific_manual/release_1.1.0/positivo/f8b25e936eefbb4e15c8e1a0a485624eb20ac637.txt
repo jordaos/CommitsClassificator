@@ -1,0 +1,8 @@
+Port #19958 to v3
+
+https://webkit.org/b/144696 has been fixed
+
+Remove its entry from the Wall of Browser Bugs
+Refs #16372
+
+[skip sauce]

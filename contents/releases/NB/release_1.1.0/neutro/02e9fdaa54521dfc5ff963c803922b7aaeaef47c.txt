@@ -1,0 +1,7 @@
+Update iOS temporal input types support comment (#20343)
+
+* <input type="datetime"> no longer exists, per https://github.com/whatwg/html/issues/336
+* iOS 9.3.2 still doesn't support <input type="week">
+
+[skip sauce]
+[skip validator]

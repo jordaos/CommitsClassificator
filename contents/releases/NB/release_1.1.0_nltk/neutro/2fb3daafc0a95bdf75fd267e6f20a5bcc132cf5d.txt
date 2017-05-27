@@ -1,0 +1,3 @@
+Closes #18353. Updated SRI hashes in docs.
+
+Used https://www.srihash.org/.

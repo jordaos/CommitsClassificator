@@ -1,0 +1,5 @@
+Modal: Ignore spurious `focus` event that Firefox fires at `document` when switching back to its tab
+
+Fixes #18365
+Ports #18638 to v3
+Refs https://bugzilla.mozilla.org/show_bug.cgi?id=1228802

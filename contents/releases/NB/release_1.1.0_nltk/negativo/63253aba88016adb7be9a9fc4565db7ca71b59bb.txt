@@ -1,0 +1,10 @@
+Port #19727 to v3
+
+Add http://bugzil.la/1264125 to Wall of Browser Bugs
+
+Due to the lack of this feature in browsers,
+we currently have to implement an annoying setTimeout-based workaround,
+which adds an extra layer of complication and probably slightly impacts performance:
+https://github.com/twbs/bootstrap/blob/e391fcb953cc959ddd88fb676b68f49eef85ef06/js/src/util.js#L63-L77
+
+[ci skip]

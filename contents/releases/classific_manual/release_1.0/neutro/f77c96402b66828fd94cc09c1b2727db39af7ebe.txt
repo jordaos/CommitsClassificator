@@ -1,0 +1,3 @@
+Customizer: update uglify-js to v2.6.2.
+
+[ci skip]

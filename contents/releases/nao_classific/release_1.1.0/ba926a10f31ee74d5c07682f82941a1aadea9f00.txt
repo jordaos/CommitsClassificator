@@ -1,0 +1,5 @@
+Port #18402 to v3: s/grunt-sed/npm script/g
+
+Fixes #18338
+[skip sauce]
+[skip validator]

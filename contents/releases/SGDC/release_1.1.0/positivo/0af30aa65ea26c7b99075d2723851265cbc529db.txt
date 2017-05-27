@@ -1,0 +1,5 @@
+Use vanilla npm shrinkwrap instead of uber/npm-shrinkwrap; fixes #18559
+
+Ports #19604 to v3.
+
+Special thanks to @kikinteractive, @azer, and @npm.

@@ -1,0 +1,10 @@
+Port #20089 to v3
+
+Add Wall of Browser Bugs entries for #12832 (#20089)
+
+Refs #12832
+Refs http://getbootstrap.com/getting-started/#support-sticky-hover-mobile
+Refs https://bugs.chromium.org/p/chromium/issues/detail?id=370155
+Refs https://bugs.webkit.org/show_bug.cgi?id=158517
+
+[skip sauce]

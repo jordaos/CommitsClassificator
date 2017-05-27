@@ -1,0 +1,3 @@
+Merge pull request #20287 from twbs/master-docs-img
+
+Losslessly compress docs images.

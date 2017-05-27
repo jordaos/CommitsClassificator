@@ -1,0 +1,3 @@
+Merge pull request #18369 from mikexstudios/update-cdn-hash
+
+Updated SRI hashes in docs for CDN links

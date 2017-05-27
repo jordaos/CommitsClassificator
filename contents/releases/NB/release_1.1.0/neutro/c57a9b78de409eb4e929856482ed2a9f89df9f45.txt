@@ -1,0 +1,7 @@
+Revert incorrect version number change in Stateful Button docs
+
+Erratum from 910400e8979f43d7d329edcaa29add03acb3d48b
+See https://github.com/twbs/bootstrap/commit/910400e8979f43d7d329edcaa29add03acb3d48b#commitcomment-14598760
+/fyi @mdo
+
+[skip sauce]

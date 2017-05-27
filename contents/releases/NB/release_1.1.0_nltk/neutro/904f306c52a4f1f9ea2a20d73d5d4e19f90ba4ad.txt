@@ -1,0 +1,6 @@
+NuGet: Adjust version range to allow jQuery 3
+
+Refs #16834
+
+[skip sauce]
+[skip validator]

@@ -1,0 +1,4 @@
+Fix 2 typos; closes #19741
+
+* cover.css: "inheritence" [sic]
+* collapse.html: "targetting" [sic]

@@ -1,0 +1,4 @@
+Explain in docs that v3 is closed off to new features
+
+Refs #18112
+[skip sauce]

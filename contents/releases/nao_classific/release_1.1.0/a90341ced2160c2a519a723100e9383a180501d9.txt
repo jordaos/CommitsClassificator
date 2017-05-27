@@ -1,0 +1,3 @@
+Fix grunt/change-version.js to update .less files too
+
+[ci skip]

@@ -1,0 +1,1 @@
+Visual/manual test for checkbox/radio button kbd behavior

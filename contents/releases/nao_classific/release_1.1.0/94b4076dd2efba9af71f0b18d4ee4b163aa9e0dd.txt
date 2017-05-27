@@ -1,0 +1,4 @@
+Docs: Add missing `tabindex="-1"` & `role="dialog"` to some `.modal`s
+
+Refs https://github.com/twbs/bootlint/pull/314
+[skip sauce]

@@ -1,0 +1,3 @@
+CONTRIBUTING.md: Update MS Edge bug reporting instructions
+
+[ci skip]

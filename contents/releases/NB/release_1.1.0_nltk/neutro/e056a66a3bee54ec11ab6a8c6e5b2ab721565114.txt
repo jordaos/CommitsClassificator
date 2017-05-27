@@ -1,0 +1,3 @@
+Merge pull request #18446 from twbs/fix-18332
+
+Check-in the v4 notice and themes link in the docs

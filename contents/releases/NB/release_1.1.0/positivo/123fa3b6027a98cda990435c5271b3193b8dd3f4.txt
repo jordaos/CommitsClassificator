@@ -1,0 +1,9 @@
+Port #20090 to v3
+
+https://crbug.com/460200 has been fixed! (#20090)
+
+So remove its entry from the Wall of Browser Bugs
+Refs #15832
+
+[skip sauce]
+[skip validator]

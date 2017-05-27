@@ -1,0 +1,3 @@
+Merge pull request #19570 from twbs/master-jquery-122
+
+Update jQuery to v1.12.2.

@@ -1,0 +1,7 @@
+Updating "Reporting upstream browser bugs" for IE
+
+Adding Microsoft Edge and the rendering engine EdgeHTML.
+
+Closes #18303
+[skip sauce]
+[skip validator]

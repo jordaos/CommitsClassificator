@@ -1,0 +1,6 @@
+Docs: Update Safari versions affected by #9774
+
+Still affects v9.1.2, but current Safari Technology Preview is no longer affected.
+Refs #20342
+
+[skip sauce]

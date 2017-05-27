@@ -1,0 +1,6 @@
+Port #18447 to v3
+
+Mention Mozilla Firefox meta-bug on Wall of Browser Bugs
+https://bugzilla.mozilla.org/show_bug.cgi?id=1230801
+
+[skip sauce]

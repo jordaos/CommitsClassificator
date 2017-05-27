@@ -1,0 +1,7 @@
+Port #19947 to v3
+
+http://bugzil.la/924068 closed as duplicate of http://bugzil.la/545685
+
+Update the Wall of Browser Bugs entry accordingly.
+
+[skip sauce]

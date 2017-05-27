@@ -1,0 +1,3 @@
+Merge pull request #18354 from tagliala/fix-whitespaces
+
+Remove whitespace at EOL in input-groups.less

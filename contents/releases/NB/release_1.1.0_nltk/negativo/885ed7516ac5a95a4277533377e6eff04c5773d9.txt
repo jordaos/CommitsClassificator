@@ -1,0 +1,5 @@
+Update Wall of Browser Bugs entry for #14211
+
+Refs https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/5381673/
+Ports a563dc8f730a10fa7c89baba7f57c132c44d84e1 to v3
+[skip sauce]

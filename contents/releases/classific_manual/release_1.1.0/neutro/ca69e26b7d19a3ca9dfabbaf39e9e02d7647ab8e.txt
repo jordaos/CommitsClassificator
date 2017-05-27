@@ -1,0 +1,3 @@
+CONTRIBUTING.md: Missing serial comma
+
+[ci skip]

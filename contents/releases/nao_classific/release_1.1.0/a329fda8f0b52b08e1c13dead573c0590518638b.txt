@@ -1,0 +1,6 @@
+Clarify valid values of Carousel's `pause` option
+
+Fixes #18205
+Closes #19410
+
+[skip sauce]

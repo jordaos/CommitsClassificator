@@ -1,0 +1,3 @@
+Merge pull request #18530 from twbs/npm-install-bootstrap-at-3
+
+Docs: Include major version in `npm install bootstrap` commands

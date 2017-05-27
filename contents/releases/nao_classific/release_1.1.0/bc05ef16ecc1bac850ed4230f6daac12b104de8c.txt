@@ -1,0 +1,7 @@
+Port #20198 to v3
+
+ScrollSpy unit test: Use single done() in a then() instead of multiple done()s
+
+Fixes test flakiness on OS X Safari and Android when using jQuery 3.
+Fixes #20182 more
+Refs #20191

@@ -1,0 +1,4 @@
+Merge pull request #19389 from cfleschhut/patch-1
+
+Make v4's switch from Less to Sass more explicit in contribution guidelines
+[ci skip]

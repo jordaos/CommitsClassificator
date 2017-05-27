@@ -1,0 +1,3 @@
+Merge pull request #19704 from patrickhlauke/v3-pagination-a11y-label
+
+Add aria-label and callout about labelling pagination components

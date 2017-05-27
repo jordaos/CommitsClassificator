@@ -1,0 +1,3 @@
+Update anchor.js to v3.1.0.
+
+[ci skip]

@@ -1,0 +1,5 @@
+Docs: Add missing `role="document"`s to `.modal-dialog`s
+
+Refs https://github.com/twbs/bootlint/pull/349#issuecomment-176554436
+
+[skip sauce]

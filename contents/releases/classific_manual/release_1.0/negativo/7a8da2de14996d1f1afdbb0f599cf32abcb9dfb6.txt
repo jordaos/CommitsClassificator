@@ -1,0 +1,4 @@
+Merge pull request #19469 from wolfy1339/patch-2
+
+Make Hound CI fail on violations
+[ci skip]

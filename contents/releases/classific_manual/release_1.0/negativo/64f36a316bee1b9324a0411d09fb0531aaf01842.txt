@@ -1,0 +1,8 @@
+Port f618aa7c015e22869b27a25f1234a475b0b27437 to v3
+
+https://webkit.org/b/138201 no longer repros
+
+Wasn't able to reproduce in iOS 9.2.
+So remove its entry from the Wall of Browser Bugs.
+Refs #14708
+[skip sauce]

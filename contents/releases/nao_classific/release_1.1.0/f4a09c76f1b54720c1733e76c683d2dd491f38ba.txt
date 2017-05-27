@@ -1,0 +1,7 @@
+Port #19452 to v3
+
+Wall of Browser Bugs: Stop mentioning IE11
+
+Sounds like IE11 isn't getting non-critical fixes anymore, so there's no point in mentioning it (just like there's no point in mentioning IE10).
+Help us, Edge-Wan Kenobi! You're our only hope.
+[ci skip]

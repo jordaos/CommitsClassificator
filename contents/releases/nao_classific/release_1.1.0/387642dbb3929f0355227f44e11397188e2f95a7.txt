@@ -1,0 +1,3 @@
+Update all devDependencies.
+
+Keep grunt at v0.4.5 due to some of the devDependencies not being updated for grunt 1.x.

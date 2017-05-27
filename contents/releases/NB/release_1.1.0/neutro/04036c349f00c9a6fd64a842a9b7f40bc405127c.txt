@@ -1,0 +1,9 @@
+Port #20311 to v3
+
+Rename shrinkwrap-related npm script (#20311)
+
+To avoid infinite recursion in newer npm versions, which added a lifecycle script for `npm shrinkwrap`.
+Refs https://github.com/npm/npm/issues/13253
+Refs https://github.com/npm/npm/pull/12814
+
+[ci skip]

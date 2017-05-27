@@ -1,0 +1,3 @@
+Fix typo in panels.less comment: Collapsable → Collapsible (#20017)
+
+[ci skip]

@@ -1,0 +1,4 @@
+Gruntfile.js: Use single quotes in htmlmin config to make JSCS happy (#20314)
+
+[skip validator]
+[skip sauce]

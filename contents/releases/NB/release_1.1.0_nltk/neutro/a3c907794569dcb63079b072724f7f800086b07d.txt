@@ -1,0 +1,3 @@
+update index.html
+
+correct visible text corresponding to number of collumns

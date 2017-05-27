@@ -1,0 +1,1 @@
+Tell clean-css to inline source files into sourcemap; v3 fix for #19063

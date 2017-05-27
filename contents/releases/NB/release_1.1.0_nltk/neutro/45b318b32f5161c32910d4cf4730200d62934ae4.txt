@@ -1,0 +1,3 @@
+Merge pull request #18445 from twbs/docs-github
+
+Grunt: Factor out new docs-github task
