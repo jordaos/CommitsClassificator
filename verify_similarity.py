@@ -31,7 +31,7 @@ def verify_is(dir, cat, dir2):
 
 
 
-dir_ver1 = 'contents/releases/NB/release_1.1.0_nltk/'
+dir_ver1 = 'contents/releases/NB/release_1.1.0/'
 dir_ver2 = 'contents/releases/classific_manual/release_1.1.0/'
 
 verify_is(dir_ver1, "positivo", dir_ver2) # Verificar os positivos
